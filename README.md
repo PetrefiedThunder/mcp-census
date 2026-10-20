@@ -16,6 +16,10 @@ Query the US Census Bureau API for demographic, economic, and geographic data.
 
 ## Installation
 
+Node.js 20 or newer is required to run the server. To install and build this
+checkout, use Node.js 20.19+ on the 20.x line or Node.js 22.12+ for the
+development dependencies.
+
 ```bash
 git clone https://github.com/PetrefiedThunder/mcp-census.git
 cd mcp-census
