@@ -17,6 +17,9 @@
   },
   "keywords": ["mcp", "census", "api", "demographics", "population"],
   "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.31.0"
   },
