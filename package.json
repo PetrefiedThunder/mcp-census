@@ -15,8 +15,14 @@
     "test:watch": "vitest",
     "lint": "tsc --noEmit"
   },
-  "keywords": ["mcp", "census", "api", "demographics", "population"],
-  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "census",
+    "api",
+    "demographics",
+    "population"
+  ],
+  "license": "Apache-2.0",
   "engines": {
     "node": ">=20"
   },
