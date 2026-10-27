@@ -62,4 +62,4 @@ CENSUS_API_KEY=your_key_here npx mcp-census
 
 ## License
 
-MIT
+Apache-2.0
